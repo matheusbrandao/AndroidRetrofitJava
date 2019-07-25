@@ -14,4 +14,4 @@ Outras libs e conceitos utilizados na criação:
 A fonte de criação foi o curso da alura disponível no link: 
 https://cursos.alura.com.br/course/android-api-web
 
-Necessário API para integração das informações. 
+O projeto simula um CRUD de estoque de produtos. Necessário API para integração das informações. 
